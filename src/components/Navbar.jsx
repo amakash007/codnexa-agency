@@ -6,7 +6,7 @@ import { useTheme } from '../context/ThemeContext';
 const navItems = [
   { name: 'Home', path: '/' },
   { name: 'About', path: '/about' },//about
-  { name: 'Projects', path: '/projects' },
+  { name: 'Projects', path: '/projects' }, //project
   { name: 'Services', path: '/services' },
   { name: 'Contact', path: '/contact' },
 ];
